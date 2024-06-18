@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DDF29ED2-2897-4906-AF07-26C0D09DEDD9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B300AF27-0000-4310-AB6E-B6F89C4B73EE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Innofied/Controllers/Viewmodel/DataListMidel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "getUserDetail(complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8068BAE3-EEE9-486E-B6FB-1BBE08560C4E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Innofied/Controllers/Viewmodel/DataListMidel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "getUserDetail(complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8068BAE3-EEE9-486E-B6FB-1BBE08560C4E - d2f428e6fd1f7fc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Innofied.DataListModel.getUserDetail(complition: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Innofied"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hd0423/Downloads/Innofied-2/Innofied/Controllers/Viewmodel/DataListMidel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24">
+               </Location>
+               <Location
+                  uuid = "8068BAE3-EEE9-486E-B6FB-1BBE08560C4E - d2f428e6fd1f7fc8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Innofied.DataListModel.getUserDetail(complition: (Swift.Bool) -&gt; ()) -&gt; ()"
+                  moduleName = "Innofied"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hd0423/Downloads/Innofied-2/Innofied/Controllers/Viewmodel/DataListMidel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
